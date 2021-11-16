@@ -1,7 +1,6 @@
 ### Olá! Me Chamo Gabriel Mendonça Bennemann 
 
 - 🌱 Atualmente estou aprendendo o básico sobre programação
-- 📝 Sou aluno da plataforma Alura 
 - 💻 Planejo seguir para área de Cybersecurity 
 - 💬 Falo e escrevo em ( Português, Espanhol e Inglês) 
 - 📫 Como me contatar = Gbennemann@hotmail.com
