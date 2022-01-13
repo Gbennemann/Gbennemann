@@ -1,10 +1,8 @@
 ### Olá! Me Chamo Gabriel Mendonça Bennemann 
 
 - 🌱 Atualmente estou aprendendo o básico sobre programação
-- 💻 Planejo seguir para área de Cybersecurity 
 - 💬 Falo e escrevo em ( Português, Espanhol e Inglês) 
 - 📫 Como me contatar = Gbennemann@hotmail.com
-- ⚡ Fun fact: Amo os animais e tenho 3 gatos (Que destroem a casa kkkkkkk) 
 
  <div>
   <a href="https://github.com/Gbennemann">
