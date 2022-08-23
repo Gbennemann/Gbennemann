@@ -1,8 +1,12 @@
 ### Olá! Me Chamo Gabriel Mendonça Bennemann 
 
-- 🌱 Atualmente estou aprendendo o básico sobre programação
-- 💬 Falo e escrevo em ( Português, Espanhol e Inglês) 
-- 📫 Como me contatar = Gbennemann@hotmail.com
+Hi! My name is Gabriel, I'm 18 years old and I was born in Brazil, I'm starting my career as a developer. I'm passionate about technology and always looking for new adventures.I am currently studying Javascript, NodeJs, HTML and CSS.
+
+☕ I'm passionate about coffee and challenges
+
+💬 I speak and write in (Portuguese, Spanish and English)
+
+📖 “Fix the cause, not the symptom.” – Steve Maguire
 
  <div>
   <a href="https://github.com/Gbennemann">
