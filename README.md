@@ -1,6 +1,4 @@
-### Olá! Me Chamo Gabriel Mendonça Bennemann 
-
-Hi! My name is Gabriel, I'm 18 years old and I was born in Brazil, I'm starting my career as a developer. I'm passionate about technology and always looking for new adventures.I am currently studying Javascript, NodeJs, HTML and CSS.
+##Hi! My name is Gabriel, I'm 18 years old and I was born in Brazil, I'm starting my career as a developer. I'm passionate about technology and always looking for new adventures.I am currently studying Javascript, NodeJs, HTML and CSS.
 
 ☕ I'm passionate about coffee and challenges
 
