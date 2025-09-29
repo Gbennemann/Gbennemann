@@ -4,10 +4,8 @@
 
 ###
 
-<p align="left">Product Owner | Data-Driven Product Strategy | Computer Science Student (Dec/2025)<br><br>🚀 Experience in product management, discovery & delivery, stakeholder alignment, and metrics-driven decision making.<br>📊 Currently deepening focus on data, business intelligence, and product analytics.<br><br>🔧 Skills<br><br>Product Management (Scrum, Kanban, Roadmap, Backlog)<br><br>Data-Driven Decisions (KPIs, OKRs, BI, A/B Testing)<br><br>UX Research & Prototyping<br><br>Business Intelligence & Process Optimization<br><br>📈 Highlights<br><br>+35% delivery efficiency with new discovery & delivery flow<br><br>Strategic MVP launches unlocking new revenue streams<br><br>Scalable multi-device product expansion<br><br>International team collaboration across time zones</p>
-
+<p align="left">Product Owner | Data-Driven Product Strategy | Computer Science Student (Dec/2025)<br><br>🚀 Experience in product management, discovery & delivery, stakeholder alignment, and metrics-driven decision making.<br>📊 Currently deepening focus on data, business intelligence, and product analytics.
 ###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
